@@ -6,7 +6,7 @@ def q2():
   print("1\n2\n3\n4\n5")
 def q3():
   #Write Assignment code here
-  print(" Help Me!")
+  print("Help Me!")
 def q4():
   #Write Assignment code here
   print("3 x 3 = 9")
